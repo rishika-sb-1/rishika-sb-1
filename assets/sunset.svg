@@ -17,10 +17,6 @@
 
   <rect y="235" width="1200" height="65" fill="#457b9d" opacity="0.75"/>
 
-  <text x="600" y="120" text-anchor="middle" font-family="Verdana, sans-serif" font-size="34" font-weight="bold" fill="#111827">
-    Rishika Renu
-  </text>
-
   <text x="600" y="160" text-anchor="middle" font-family="Verdana, sans-serif" font-size="22" fill="#111827">
     <h3>Learning with purpose. Building with intention. Growing through every project.</h3>
   </text>
