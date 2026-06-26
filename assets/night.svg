@@ -25,7 +25,13 @@
 
   <rect y="240" width="1200" height="60" fill="#0f172a" opacity="0.9"/>
 
-  <text x="600" y="160" text-anchor="middle" font-family="Verdana, sans-serif" font-size="18" fill="#cbd5e1">
+  <text x="600"
+        y="145"
+        text-anchor="middle"
+        font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif"
+        font-size="22"
+        font-weight="500"
+        fill="#e2e8f0">
     Learning with purpose. Building with intention. Growing through every project.
   </text>
 </svg>
