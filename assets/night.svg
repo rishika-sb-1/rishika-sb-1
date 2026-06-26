@@ -1,26 +1,35 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="sunsetSky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffb199"/>
-      <stop offset="55%" stop-color="#ffd6a5"/>
-      <stop offset="100%" stop-color="#a2d2ff"/>
+    <linearGradient id="nightSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="60%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="300" fill="url(#sunsetSky)"/>
+  <rect width="1200" height="300" fill="url(#nightSky)"/>
 
-  <circle cx="960" cy="95" r="42" fill="#ff7b54"/>
+  <circle cx="970" cy="75" r="35" fill="#f8fafc"/>
+  <circle cx="985" cy="65" r="35" fill="#020617"/>
 
-  <path d="M0 210 L150 145 L300 210 L450 130 L650 210 L820 150 L1000 210 L1200 140 L1200 300 L0 300 Z" fill="#3d405b"/>
-  <path d="M0 235 L220 170 L420 235 L620 160 L840 235 L1040 175 L1200 230 L1200 300 L0 300 Z" fill="#2f3e46"/>
+  <circle cx="120" cy="60" r="2" fill="#ffffff"/>
+  <circle cx="220" cy="100" r="2" fill="#ffffff"/>
+  <circle cx="360" cy="70" r="2" fill="#ffffff"/>
+  <circle cx="510" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="680" cy="95" r="2" fill="#ffffff"/>
+  <circle cx="840" cy="55" r="2" fill="#ffffff"/>
+  <circle cx="1080" cy="120" r="2" fill="#ffffff"/>
 
-  <rect y="235" width="1200" height="65" fill="#457b9d" opacity="0.75"/>
+  <path d="M0 215 L160 150 L320 215 L500 135 L700 215 L860 155 L1030 215 L1200 145 L1200 300 L0 300 Z" fill="#111827"/>
+  <path d="M0 240 L240 175 L460 240 L650 165 L880 240 L1070 180 L1200 235 L1200 300 L0 300 Z" fill="#020617"/>
 
-  <text x="600" y="120" text-anchor="middle" font-family="Verdana, sans-serif" font-size="34" font-weight="bold" fill="#1f2937">
+  <rect y="240" width="1200" height="60" fill="#0f172a" opacity="0.9"/>
+
+  <text x="600" y="120" text-anchor="middle" font-family="Verdana, sans-serif" font-size="34" font-weight="bold" fill="#ffffff">
     Rishika Renu
   </text>
 
-  <text x="600" y="160" text-anchor="middle" font-family="Verdana, sans-serif" font-size="18" fill="#1f2937">
+  <text x="600" y="160" text-anchor="middle" font-family="Verdana, sans-serif" font-size="18" fill="#cbd5e1">
     Learning with purpose. Building with intention. Growing through every project.
   </text>
 </svg>
