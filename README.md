@@ -8,10 +8,6 @@
 
 <h1 align="center">Hi, I'm Rishika Renu SB👋</h1>
 
-<p align="center">
-  <b>Learning with purpose. Building with intention. Growing through every project.</b>
-</p>
-
 ---
 
 ### 👩‍💻 About Me
