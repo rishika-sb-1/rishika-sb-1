@@ -1,1 +1,26 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sunsetSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffb199"/>
+      <stop offset="55%" stop-color="#ffd6a5"/>
+      <stop offset="100%" stop-color="#a2d2ff"/>
+    </linearGradient>
+  </defs>
 
+  <rect width="1200" height="300" fill="url(#sunsetSky)"/>
+
+  <circle cx="960" cy="95" r="42" fill="#ff7b54"/>
+
+  <path d="M0 210 L150 145 L300 210 L450 130 L650 210 L820 150 L1000 210 L1200 140 L1200 300 L0 300 Z" fill="#3d405b"/>
+  <path d="M0 235 L220 170 L420 235 L620 160 L840 235 L1040 175 L1200 230 L1200 300 L0 300 Z" fill="#2f3e46"/>
+
+  <rect y="235" width="1200" height="65" fill="#457b9d" opacity="0.75"/>
+
+  <text x="600" y="120" text-anchor="middle" font-family="Verdana, sans-serif" font-size="34" font-weight="bold" fill="#1f2937">
+    Rishika Renu
+  </text>
+
+  <text x="600" y="160" text-anchor="middle" font-family="Verdana, sans-serif" font-size="18" fill="#1f2937">
+    Learning with purpose. Building with intention. Growing through every project.
+  </text>
+</svg>
