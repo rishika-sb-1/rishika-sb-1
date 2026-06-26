@@ -1,23 +1,32 @@
-
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="sunsetSky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffb199"/>
-      <stop offset="55%" stop-color="#ffd6a5"/>
-      <stop offset="100%" stop-color="#a2d2ff"/>
+      <stop offset="0%" stop-color="#6d5dfc"/>
+      <stop offset="45%" stop-color="#ff9a76"/>
+      <stop offset="100%" stop-color="#ffd166"/>
     </linearGradient>
   </defs>
 
   <rect width="1200" height="300" fill="url(#sunsetSky)"/>
 
-  <circle cx="960" cy="95" r="42" fill="#ff7b54"/>
+  <circle cx="1030" cy="185" r="42" fill="#ff7b54"/>
 
-  <path d="M0 210 L150 145 L300 210 L450 130 L650 210 L820 150 L1000 210 L1200 140 L1200 300 L0 300 Z" fill="#3d405b"/>
-  <path d="M0 235 L220 170 L420 235 L620 160 L840 235 L1040 175 L1200 230 L1200 300 L0 300 Z" fill="#2f3e46"/>
+  <path d="M0 230 L160 170 L310 230 L480 165 L650 230 L830 175 L1010 230 L1200 165 L1200 300 L0 300 Z" fill="#3d405b"/>
+  <path d="M0 252 L220 205 L420 252 L620 198 L840 252 L1040 205 L1200 248 L1200 300 L0 300 Z" fill="#2f3e46"/>
 
-  <rect y="235" width="1200" height="65" fill="#457b9d" opacity="0.75"/>
+  <rect y="252" width="1200" height="48" fill="#457b9d" opacity="0.65"/>
 
-  <text x="600" y="160" text-anchor="middle" font-family="Verdana, sans-serif" font-size="22" fill="#1f2937">
-    <h3>Learning with purpose. Building with intention. Growing through every project.</h3>
+  <path d="M890 115 Q900 105 910 115" stroke="#374151" stroke-width="3" fill="none"/>
+  <path d="M930 130 Q940 120 950 130" stroke="#374151" stroke-width="3" fill="none"/>
+  <path d="M980 110 Q990 100 1000 110" stroke="#374151" stroke-width="3" fill="none"/>
+
+  <text x="600"
+        y="130"
+        text-anchor="middle"
+        font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif"
+        font-size="24"
+        font-weight="600"
+        fill="#111827">
+    Learning with purpose. Building with intention. Growing through every project.
   </text>
 </svg>
